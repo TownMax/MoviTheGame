@@ -15,7 +15,6 @@ tile_map_data = PackedByteArray("AAD+/wEAAAAAAAAAAAD//wEAAAAAAAAAAAAAAAEAAAAAAAA
 tile_set = ExtResource("2_yqjtg")
 
 [node name="Player" parent="." unique_id=1166210053 instance=ExtResource("1_uwrxv")]
-collision_layer = 2
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=1289201733]
 zoom = Vector2(2.4, 2.4)
